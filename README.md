@@ -1,4 +1,4 @@
-# VPS购买指北（VPS Buying Guide）
+# VPS 购买指北（VPS Buying Guide）
 
 > 🌐 一份写给新手的 VPS 购买指南，涵盖主流服务商、选择标准、注意事项、推荐配置、常见问题等，助你轻松入门云服务器选购。
 
