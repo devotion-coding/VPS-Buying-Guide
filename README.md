@@ -148,10 +148,7 @@ VPS（Virtual Private Server，虚拟专用服务器）是一种性价比高、�
 
 ## 📬 联系我们
 
-- Email：vps.guide@example.com
 - GitHub Issues：欢迎提交问题或建议
-- Telegram 群组：@vpsbuying
-- 微信公众号：VPS购买指北（持续更新 VPS 相关内容）
 
 ---
 
