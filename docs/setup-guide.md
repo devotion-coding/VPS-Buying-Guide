@@ -267,7 +267,6 @@ systemctl start fail2ban
 ## 📌 十、下一步推荐
 
 - [security.md](security.md)：学习 VPS 安全加固方法
-- [providers.md](providers.md)：查看主流 VPS 服务商对比
 - [faq.md](faq.md)：查看常见问题解答
 
 ---
