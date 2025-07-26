@@ -321,7 +321,6 @@ crontab -e
 ## 📚 十一、后续学习推荐
 
 - [setup-guide.md](setup-guide.md)：了解 VPS 初次配置流程
-- [providers.md](providers.md)：查看主流 VPS 服务商对比
 - [faq.md](faq.md)：查看常见问题解答
 
 ---
